@@ -29,8 +29,21 @@ webConsultorio/
 │ └── (imágenes del consultorio)
 
 
-
 ## ⚙️ Cómo usarlo
 1. Clonar el repositorio:
    ```bash
    git clone https://github.com/SantiagoPG/webConsultorio.git
+   
+2. Abrir el archivo index.html en tu navegador.
+
+📌 Mejoras futuras
+
+Integración de un formulario de contacto funcional con backend.
+
+Optimización SEO.
+
+Versión con CMS para edición fácil de contenidos.
+
+📄 Licencia
+
+Este proyecto está bajo la licencia MIT. Puedes usarlo libremente.
